@@ -1,2 +1,2 @@
-## Welcome to Digits!
+## Welcome to Digits!!
 <img src="docs/digits.jpg">
